@@ -1,0 +1,9 @@
+name: Ping
+version: 1.0.0
+author: ejer
+main: ga.ejer.ping.Main
+website: ejer.gq/SpigotPing
+commands:
+  ping:
+    description: Check your own or someone else's ping.
+    usage: /<command>
